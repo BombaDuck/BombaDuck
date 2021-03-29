@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ray
+  I am a native mandarine speaker but I am fluent in English as well
 - 👀 I’m interested in Algorithems
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m currently a gradschool student
