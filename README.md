@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ray
   I am a native mandarin speaker but I am fluent in English as well
-- 👀 I’m interested in Algorithems
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m currently a gradschool student
+- 👀 Interested in Algorithems
+- 🌱 Currently learning Neural Networks
+- 💞️ Graduated from gradschool
 - 📫 raylinwc@outlook.com if you are wishing to reach me out
 
 <!---
