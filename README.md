@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ray
-  I am a native mandarin speaker but I am fluent in English as well
+  A native mandarin speaker but fluent in English as well
 - 👀 Interested in Algorithems
 - 🌱 Currently learning Neural Networks
-- 💞️ Graduated from gradschool
+- 💞️ Master degree of Communication engineering
 - 📫 raylinwc@outlook.com if you are wishing to reach me out
 
 <!---
